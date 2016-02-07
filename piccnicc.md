@@ -16,12 +16,12 @@ The web application that we would be commissioned to build would be for the purp
 
 ### Challenge
 
-Our main challenge was to create a mobile first web application that had a fluid UI. We had to build it so that it would not only look great, but also feel incredibly intuitive and easy to use.
+Our main challenge was to create a mobile first web application that had a fluid UI. We had to build it so that it would not only look great, but also feel incredibly intuitive and easy to use. The client also wanted us to design the application in such a way that the user would be able to order food through multiple methods which was one of the most challenging aspects of the project.  
 
 
 ### Solution
 
-After a couple of hours of weighing up our options and discussing what technologies we were going to use, we decided that we were going to build the web app using React. We felt that this would give us a better user experience as it provided a framework that supported smooth and fast transitions between views and also a way to organise our code into easily managable components that could be styled indivdually.
+After a couple of hours of weighing up our options and discussing what technologies we were going to use, we decided that we were going to build the Piccnicc web app using React. We felt that this would give us a better user experience as it provided a framework that supported smooth and fast transitions between views and also a way to organise our code into easily manageable components that could be styled individually.
 
 
 ### Technologies
