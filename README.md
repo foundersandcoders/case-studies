@@ -2,7 +2,7 @@
 
 This is the broad format. Keep it short.
 
-- Screencast
+- Screencast - *NEW*
 - Quote from client
 - Summary
 - Challenge
