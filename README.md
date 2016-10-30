@@ -8,4 +8,5 @@ This is the broad format. Keep it short.
 - Challenge
 - Solution
 - Technologies
+- Team members (with links to github profiles) - *NEW*
 - Screenshots
