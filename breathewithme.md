@@ -4,8 +4,6 @@
 
 A screencast of Breathe With Me can be found [here.](https://vimeo.com/189918422)
 
-[comment]: <> (Github doesn't allow you to embed iframes in their markdown for security reasons.)
-
 ### Client Quote
 
 >"Right from the very beginning, my team of developers engaged with the project and made helpful suggestions to guide my idea and ensure the product was the best it could be. They understood that aesthetics were one of the top priorities and worked hard to ensure the design was calming and consistently high quality. It looks beautiful! I want to say a big thanks and hope that we can work together again in the future."
