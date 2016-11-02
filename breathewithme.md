@@ -2,7 +2,9 @@
 
 ### Screencast
 
-Screencast can be found [here](https://drive.google.com/drive/folders/0BzAAKt4fbFbgaUszOXp2ZzZsdXc)
+A screencast of Breathe With Me can be found [here.](https://vimeo.com/189918422)
+
+[comment]: <> (Github doesn't allow you to embed iframes in their markdown for security reasons.)
 
 ### Client Quote
 
@@ -13,6 +15,8 @@ Screencast can be found [here](https://drive.google.com/drive/folders/0BzAAKt4fb
 ### Summary
 
 Breathe With Me is a mobile web application that takes user-centred design as first principle. With smooth, flowing transitions, and soft, ambient music, it guides the user through a deep breathing meditation using animated animal avatars as a point of focus. Any time you need a break you can Breathe With Me.
+
+The app can be found at [https://breathewithme.co.uk/](https://breathewithme.co.uk/).
 
 ### Challenge
 
