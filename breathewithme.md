@@ -1,4 +1,4 @@
-![splash_ipad](https://cloud.githubusercontent.com/assets/12380455/19898633/c42562e0-a054-11e6-8568-26b08883c053.png)
+![Title-screenshot](https://cloud.githubusercontent.com/assets/12380455/19898633/c42562e0-a054-11e6-8568-26b08883c053.png)
 
 ### Screencast
 
@@ -15,8 +15,6 @@ A screencast of Breathe With Me can be found [here.](https://vimeo.com/189918422
 ### Summary
 
 Breathe With Me is a mobile web application that takes user-centred design as first principle. With smooth, flowing transitions, and soft, ambient music, it guides the user through a deep breathing meditation using animated animal avatars as a point of focus. Any time you need a break you can Breathe With Me.
-
-The app can be found at [https://breathewithme.co.uk/](https://breathewithme.co.uk/).
 
 ### Challenge
 
@@ -45,3 +43,7 @@ We implemented the following technologies to accomplish this:
 ### Team Members
 
 [Sofia Pohjalainen](https://github.com/sofiapoh) | [Noga Inbar](https://github.com/nogainbar) | [Bradley Reeder](https://github.com/bradreeder) | [Kara de la Marck](https://github.com/MarckK) | [Gabriel Perales](https://github.com/gabrielperales)
+
+### URL
+
+The project can be found at: [https://breathewithme.co.uk/](https://breathewithme.co.uk/).
