@@ -10,5 +10,6 @@ This is the broad format. Keep it short.
 - Solution
 - Technologies
 - Team members (with links to github profiles)
+- Quote from team member about client - *NEW*
 - link to URL (if public)
-- Screenshots
+- Screenshot
