@@ -2,7 +2,9 @@
 
 ### Client Quote
 
->""
+>"Working with Founders & Coders has been an absolute joy."
+> 
+> Alex Bryce, National Ugly Mugs
 
 ### Summary
 
