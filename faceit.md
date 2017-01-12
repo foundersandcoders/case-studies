@@ -29,6 +29,8 @@ __Technology used:__
 * Cordova  
 * VelocityJS
 
+__Team members:__  
+[Mattia Spinelli](https://github.com/daymos), [Heather Lauren](https://github.com/heatherlauren), [Matthew Sharp](https://github.com/matthewiiv)  
 
 __Team's quote:__ 
 >Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.
