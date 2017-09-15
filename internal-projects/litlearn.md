@@ -29,5 +29,6 @@ We focused on a mobile first design, here are some screen shots to prove it:
 
 ## Check it out :sparkles:
 https://litlearn.herokuapp.com/
+https://github.com/FAC-11/litlearn/
 
 
