@@ -1,7 +1,5 @@
-## Title of project
-GunBoat Diplomacy
+## GunBoat Diplomacy
 
-## Screencast
 ![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif)
 
 ## Quote from client
@@ -22,6 +20,7 @@ The main challenge was the fact none of our team members new anything about any 
 The solution was to use sockets.io to emit player position, velocity and rotation. We used the Three.JS library to build the scene, geometry and meshes. We used the CANNON.js library to build physics within the game.
 
 ## Technologies
+
 socket.io (websocket technology)
 Three.js (gaming library in javascript)
 browserify (for bundling frontend files and modularising code in the same way as the backend)
@@ -31,14 +30,10 @@ express
 node.js
 heroku
 
+## Team members
 
-
-
-## Team members (with links to github profiles)
 [Rebeca](https://github.com/rebecacalvoquintero) , [Yahia](https://github.com/y-zaky), [James](https://github.com/RogeredBacon) and [Constantina](https://github.com/polyccon)
 
-## Quote from team member about client - NEW
-I love the client I don't want him to be frustrated anymore
-
 ## link to URL (if public)
+
 https://gunboat-diplomacy.herokuapp.com
