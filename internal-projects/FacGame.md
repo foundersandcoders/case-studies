@@ -21,14 +21,14 @@ The solution was to use sockets.io to emit player position, velocity and rotatio
 
 ## Technologies
 
-socket.io (websocket technology)
-Three.js (gaming library in javascript)
-browserify (for bundling frontend files and modularising code in the same way as the backend)
-babelify(converts ES6 to ES5 for use of frontend files in bundles made with browserify)
-CANNON
-express
-node.js
-heroku
+ * socket.io (websocket technology)
+ * Three.js (gaming library in javascript)
+ * browserify (for bundling frontend files and modularising code in the same way as the backend)
+ * babelify(converts ES6 to ES5 for use of frontend files in bundles made with browserify)
+ * CANNON
+ * express
+ * node.js
+ * heroku
 
 ## Team members
 
