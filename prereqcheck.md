@@ -9,9 +9,13 @@ A screencast of prereqCheck can be found below.
 ## Client Quote
 
 "I really love what you guys have done."
+
 "I love it."
+
 "This is great and will be so useful."
+
 "I can't wait to use it."
+
 "When will it be deployed?"
 
 *Dan Sofer, Founder of Founders & Coders*
