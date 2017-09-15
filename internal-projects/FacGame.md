@@ -43,4 +43,5 @@ I love the client I don't want him to be frustrated anymore
 https://gunboat-diplomacy.herokuapp.com
 
 ## Screenshot
+![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif)
 ![](https://i.imgur.com/SOizvin.jpg)
