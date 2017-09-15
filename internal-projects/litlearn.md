@@ -16,8 +16,7 @@ We wanted to create a 'Codewars for English', where students could compare, rate
 
 To help students overcome anxiety about responding to long, unseen texts, we simplified the task by starting them off on a shorter piece of writing, and a multiple-choice question to help prompt ideas for their inferences.
 
-We focused on a mobile first design, here are some screen shots to prove it: 
-![](https://i.imgur.com/wzkMeDU.png =150x) ![](https://i.imgur.com/FkZ8FYR.png =150x) ![](https://i.imgur.com/iIv2PQ4.png =150x)
+![](https://user-images.githubusercontent.com/23265724/30490820-0ce20514-9a33-11e7-9a7f-20294d230708.gif)
 
 
 ## Technologies :floppy_disk:
