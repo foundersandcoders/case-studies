@@ -40,15 +40,11 @@ The user flow is easy for applicants: after signing in with GitHub, they can ent
 
 We implemented the following technologies to accomplish this:
 
-JavaScript
-
-SCSS
-
-Handlebars
-
-Node.js
-
-Express.js
+* JavaScript
+* SCSS
+* Handlebars
+* Node.js
+* Express.js
 
 We placed a high emphasis on code quality and test coverage, which at the time of writing stands at 92%.
 
