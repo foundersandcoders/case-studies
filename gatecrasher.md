@@ -1,7 +1,7 @@
 # Gatecrasher
 Screencast
 
-![alt gatecrasher_pic](./assets/GateCrasher .gif)
+![alt gatecrasher_pic](https://github.com/foundersandcoders/case-studies/blob/gatecrasher/assets/GateCrasher%20.gif)
 
 Client Quote
 
