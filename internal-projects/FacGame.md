@@ -2,7 +2,7 @@
 GunBoat Diplomacy
 
 ## Screencast
-![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif | width=150)
+![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif)
 
 ## Quote from client
 'Right from start I was very impressed by the team's work ethic and communication through consecutive disaster after disaster.They managed to build an functioning MVP which nearly had all of the functionality of the user stories.'
