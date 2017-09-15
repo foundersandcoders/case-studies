@@ -4,7 +4,7 @@
 
 A screencast of prereqCheck can be found below.
 
-[!prereqCheck screencast](assets/fac-app-user-flow.gif)
+![prereqCheck screencast](assets/fac-app-user-flow.gif)
 
 ## Client Quote
 
