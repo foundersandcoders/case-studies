@@ -39,3 +39,5 @@ Our focus was on creating a simple and clear UI for FACers. Users can search amo
 ### Link to repo: https://github.com/azayneeva/FAC-Share
 
 ## Screenshot
+
+![](https://user-images.githubusercontent.com/24795752/30491116-1d1583a6-9a34-11e7-8948-4c9c591e903d.png)
