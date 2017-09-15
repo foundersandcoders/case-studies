@@ -4,6 +4,8 @@
 
 A screencast of prereqCheck can be found below.
 
+[!prereqCheck screencast](assets/fac-app-user-flow.gif)
+
 ## Client Quote
 
 "I really love what you guys have done."
@@ -49,4 +51,4 @@ We placed a high emphasis on code quality and test coverage, which at the time o
 The project can be found at:
 https://prereq-check.herokuapp.com
 
-# :deciduous_tree: :cow2: :cow2::cow2: :cow2::cow2: :cow2: :cow2: :hankey: 
+# :deciduous_tree: :cow2: :cow2::cow2: :cow2::cow2: :cow2: :cow2: :hankey:
