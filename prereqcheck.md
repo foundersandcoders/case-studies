@@ -2,8 +2,6 @@
 
 ## Screencast
 
-A screencast of prereqCheck can be found below.
-
 ![prereqCheck screencast](assets/fac-app-user-flow.gif)
 
 ## Client Quote
