@@ -1,4 +1,4 @@
-# prereqCheck: Case studies :books: :heavy_check_mark: :toilet: :frowning:
+# ![prereqCheck](https://prereq-check.herokuapp.com): Case studies :books: :heavy_check_mark: :toilet: :frowning:
 
 ## Screencast
 
@@ -18,7 +18,7 @@ A screencast of prereqCheck can be found below.
 
 "When will it be deployed?"
 
-Dan Sofer, Founder of Founders & Coders
+*Dan Sofer, Founder of Founders & Coders*
 
 ## Summary
 
@@ -52,7 +52,7 @@ We placed a high emphasis on code quality and test coverage, which at the time o
 
 ## URL
 
-The project can be found at:
-https://prereq-check.herokuapp.com
+The project repo can be found at:
+https://github.com/ameliejyc/prereq-check
 
 # :deciduous_tree: :cow2: :cow2::cow2: :cow2::cow2: :cow2: :cow2: :hankey:
