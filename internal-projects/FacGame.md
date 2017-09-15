@@ -2,19 +2,20 @@
 GunBoat Diplomacy
 
 ## Screencast
+![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif | width=150)
 
 ## Quote from client
-'Right from start I was very impressed by the team's work ethic and communication through consecutive distaster after disaster.They managed to build an functioning mvp which nearly had all of the functionality of the user stories.'
+'Right from start I was very impressed by the team's work ethic and communication through consecutive disaster after disaster.They managed to build an functioning MVP which nearly had all of the functionality of the user stories.'
 
 Rebeca FAC 11
 
 ## Summary
 
-Gunboat diplomacy is multiplayer game where users can select a politician and roam around the map. They can shoot bullets, that collide with objects. They can jump, and they can play arond with other freidnss.
+Gunboat diplomacy is multiplayer game where users can select a politician and roam around the map. They can shoot bullets, that collide with objects. They can jump, and they can play around with other friends.
 
 ## Challenge
 
-The main challenge was the fact none of our team members new anything about any of the technoligies that we were to use. In fact initially we had no idea how we were going to build the game. However, with optimisim and patience we were able to learn and deploy the technologies well.
+The main challenge was the fact none of our team members new anything about any of the technologies that we were to use. In fact initially we had no idea how we were going to build the game. However, with optimism and patience we were able to learn and deploy the technologies well.
 
 ## Solution
 
@@ -41,7 +42,3 @@ I love the client I don't want him to be frustrated anymore
 
 ## link to URL (if public)
 https://gunboat-diplomacy.herokuapp.com
-
-## Screenshot
-![](https://user-images.githubusercontent.com/25886395/30488410-2083ca58-9a2e-11e7-9cf6-62416a2f3273.gif)
-![](https://i.imgur.com/SOizvin.jpg)
