@@ -11,7 +11,7 @@ All projects created by our alumni:
 - [Wales Coop](./freelancing/walescoop.md)
 
 ### Graduate projects
-The first projects created after graduation:
+Initial projects created after graduation:
 - [Breathe With Me](./grad-projects/fac9-breathewithme.md)
 
 ### Student projects
