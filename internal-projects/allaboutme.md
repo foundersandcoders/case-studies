@@ -17,7 +17,8 @@ All About Me allows patients to answer the questionnaire online in their own tim
 
 Check it out [here](https://allaboutme-annafreud.herokuapp.com/) :eyes:
 
-Or look at this short video that shows basic functionality of the app:
+Or look at this short video that shows basic functionality of the app:  
+
 ![](https://i.imgur.com/Ibg2ykx.gif)  
 
 
