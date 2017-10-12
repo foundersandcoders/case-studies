@@ -17,7 +17,7 @@ Initial projects created after graduation:
 ### Student projects
 Projects created by our students as part of the curriculum:
 - For clients:
-
+  -[Datapower](./london/fac11/external-datapower.md)
 - Internal to FAC:
   - [FAC Game](./london/internal-facgame.md)
   - [Gate Crasher](./london/gatecrasher.md)
