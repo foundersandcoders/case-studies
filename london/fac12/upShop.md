@@ -1,7 +1,7 @@
 # Case Study
 
 ## UpShop 
->_"Add value to your next purchase"_
+_"Add value to your next purchase"_  
 _"Make every purchase count"_
 
 Check out the app here: [UpShop App](https://upshop.herokuapp.com/)
