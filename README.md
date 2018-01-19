@@ -23,3 +23,4 @@ Projects created by our students as part of the curriculum:
   - [Gate Crasher](./london/gatecrasher.md)
   - [LitLearn](./london/internal-litlearn.md)
   - [Prereq Check](./london/internal-prereqcheck.md)
+  - [Peppr](./london/fac12/peppr.md)
