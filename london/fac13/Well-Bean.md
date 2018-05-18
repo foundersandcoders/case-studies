@@ -1,7 +1,7 @@
 # Well-Bean App
 App to create a healthier lifestyle and routine in a community driven platform
 
-(Well-Bean App Demo)[http://well-bean.herokuapp.com/]
+http://well-bean.herokuapp.com/
 
 ## App Walkthrough
 
