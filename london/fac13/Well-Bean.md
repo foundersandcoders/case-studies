@@ -1,6 +1,8 @@
 # Well-Bean App
 App to create a healthier lifestyle and routine in a community driven platform
 
+(Well-Bean App Demo)[http://well-bean.herokuapp.com/]
+
 ## App Walkthrough
 
 ### Problem Statement
@@ -53,24 +55,6 @@ User Stories:
 User Stories:
 * [ ] User can report or provide feedback on a challenge.
 * [ ] They can report a messages that do not comply with the ethos of the app.
-
-## Git Flow
-
- - assign yourself to an issue and add `in-progress` label 
- - start work on issue
- - commit work referencing issue
- - create a pull request
-     - reference issue
-     - add description of work completed
-     - `assign` all of your team
-     - if you are still working on the PR add [WIP] to the title (work in progress)
-- __everybody__ in the team reviews the PR - **IMPORTANT!!!**
-- the creator of the PR should respond to all the questions and/or make changes requested (or say why don't want to change has to be a good reason)
-- the final team member to review should `assign` the QA and add `awaiting-review` label
-- the QA will review and reassign the creator of the PR and unassign themself
-- this step repeats until the PR can be merged :twisted_rightwards_arrows: and the branch deleted :x:
-
-## How to run/set up local environment
 
 ## Prototype Flow
 [Figma prototype](https://www.figma.com/file/JqtTX7hSQDNm6bezlf6w9SnE/Be-Well?node-id=80%3A169)
