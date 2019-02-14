@@ -1,0 +1,68 @@
+# StackMatch - case study
+
+> Help F&C help you find your next job!
+
+## Summary
+
+A web app for Founders & Coders members to connect with each other, hear about job opportunities from FAC, and find other members based on their technical stack skills and experience.
+
+**Problem Statement:** 
+*The Founders & Coders (FAC) community needs a way for members to connect and make it possible for the FAC hiring manager to contact members with job opportunity they may find interesting.*
+
+**Developement Project Site:** 
+https://stackmatch-fac-dev.herokuapp.com
+
+**GitHub Repo:** 
+https://github.com/fac-13/stackMatch 
+
+## Tech Stack
+
+| Front end             | Backend & Database   | Testing    | Other               |
+|:---------------------:|:--------------------:|:----------:|:-------------------:|
+| HTML5                 | Node.js              | Tape       | OAuth (Passport.js) | 
+| CSS3 / Sass           | Express.js           | Travis CI  | Github REST API     |
+| Javascript            | PostgreSQL           | Supertest  | Webpack             |
+| Handlebars            |                      | nyc        | Babel.js            |
+                    
+## Developement Stie Demo (desktop version)
+
+
+## Prototype Demo (original mobile design)
+
+
+## Approach
+
+### Design Sprint
+
+More details about our journey through design week can be found here: 
+[Design Thinking Week Journey](https://github.com/fac-13/stackMatch/blob/master/Design%20Folder/journey.md)
+
+As a result of our design sprint and user testing feedback, we decided to focus on a desktop/laptop web application rather than a mobile-first approach. 
+
+### Build Sprint 1
+
+#### User Journeys
+
+1. As a FAC member, I can sign up to StackMatch with Github, create my profile, and log out or delete my account. 
+    * I can view a stackMatch homepage.
+    * I can click a button to sign up or login via GitHub.
+    * I can review my autopopulated initial profile and save changes.
+    * I can view my saved profile.
+    * I can add and remove technology from my tech stack.
+    * I can click a button to log out.
+    * I can delete my account and stored data.
+    
+2. As a FAC member, I can see other users of StackMatch and do a simple filter by FAC cohort.
+    * I can see all members of StackMatch in an single all users page.
+    * I can click on a member card and it links to their profile page. 
+    * I can select a filter. *(not actioned during initial sprint)*
+    * I can see the results of my filter. *(not actioned during initial sprint)*
+    * I can remove my filter. *(not actioned during initial sprint)*
+
+
+
+#### Team
+- Helen Zhou
+- Tom Doran
+- Lawrence Sarpong
+- Vanessa Bower
